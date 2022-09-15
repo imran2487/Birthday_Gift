@@ -101,7 +101,7 @@ div#sea {
   content: "Click Me!";
   left: 0;
   bottom: 0;
-  font-size: 24px;
+  font-size: 32px;
   text-align: center;
   transform: rotate(-20deg);
   transform-origin: 0 0;
