@@ -306,7 +306,7 @@ function reveal() {
 const para = document.getElementById("para");
 
 function myMessage() {
-  para.innerHTML = ">Happy birthday to you, sweetheart! Today is all about you, and I want to make it special, although every day is special as long as I am with you. Here's to another year of adventures together. Happy birthday, my girl!";
+  para.innerHTML = "Happy birthday to you, sweetheart! Today is all about you, and I want to make it special, although every day is special as long as I am with you. Here's to another year of adventures together. Happy birthday, my girl!";
   console.log("message appeared");
 }
 setTimeout(myMessage, 8000);
